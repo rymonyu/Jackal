@@ -1,0 +1,8 @@
+prefix=/home/SENSETIME/yurymon/jackal_ws/devel
+
+Name: jackal_tutorials
+Description: Description of jackal_tutorials
+Version: 0.6.2
+Cflags: 
+Libs: -L/home/SENSETIME/yurymon/jackal_ws/devel/lib 
+Requires: 

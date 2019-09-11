@@ -1,0 +1,8 @@
+prefix=/home/SENSETIME/yurymon/jackal_ws/install
+
+Name: jackal_gazebo
+Description: Description of jackal_gazebo
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/SENSETIME/yurymon/jackal_ws/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/SENSETIME/yurymon/jackal_ws/install
+
+Name: jackal_control
+Description: Description of jackal_control
+Version: 0.6.2
+Cflags: 
+Libs: -L/home/SENSETIME/yurymon/jackal_ws/install/lib 
+Requires: 

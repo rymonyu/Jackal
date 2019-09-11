@@ -1,0 +1,8 @@
+prefix=/home/SENSETIME/yurymon/jackal_ws/devel
+
+Name: interactive_marker_twist_server
+Description: Description of interactive_marker_twist_server
+Version: 1.2.0
+Cflags: 
+Libs: -L/home/SENSETIME/yurymon/jackal_ws/devel/lib 
+Requires: 
