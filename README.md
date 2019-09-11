@@ -136,13 +136,13 @@ $ roslaunch jackal_viz view_robot.launch config:=navigation
 <br>
 
 ### Other Usage
-* See [RealSense Setup](RealSense.md)
-<br>
-* See [Jetson TX2 Setup](TX2.md)
-<br> 
-* See [MYNT Camera Setup](MYNT.md)
-<br>
-* See [Human detection + Following](detection_following)
+> * See [RealSense Setup](RealSense.md)
+>
+> * See [Jetson TX2 Setup](TX2.md)
+> 
+> * See [MYNT Camera Setup](MYNT.md)
+>
+> * See [Human detection + Following](detection_following)
 
 
 
