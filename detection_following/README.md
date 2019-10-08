@@ -1,9 +1,9 @@
 - Objective
--
+
 > The aim of this work is to follow a person and turn with respect to the movement
 
 - Outline
-- 
+
 > Using two separate python files
 >
 > 1. Establish ROS publisher and constantly sending drive commans to Jackal UGV
@@ -11,7 +11,7 @@
 > 2. Post-process camera frames and send variable changes to publisher for updating Jackal's control
 
 - Post-process
--
+
 > 1. Enable pipeline streaming on D435 and post-process each frame
 >
 > 2. Define two float64 variables FowardMessage and TurnMessage
