@@ -33,7 +33,7 @@
 
 
 - ROS Publisher
-- 
+
 > 1. Initial ROS node for publishing and receiving messages
 >
 > 2. Publisher
